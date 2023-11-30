@@ -1,0 +1,24 @@
+body{
+    background-color: #FFEFE8;
+    color: black;
+}
+header{
+    color: #637E76;
+}
+h2{
+    color: #C69774;
+}
+ul{
+    background-color: #F8DFD4;
+}
+img{
+    float: left;
+    margin: 20px;
+}
+footer{
+    background-color: #637E76;
+    color: white;
+}
+footer h2{
+    color: #F8DFD4;
+}
