@@ -10,7 +10,6 @@ h2{
     color: #C69774;
 }
 ul{
-    background-color: #F8DFD4;
     margin: 10px;
 }
 ul li{
@@ -26,7 +25,7 @@ ol li{
 img{
     float: left;
     margin: 20px;
-    /* Temporary while editing layout */
+    /* !Temporary while editing layout */
     display: none;
 }
 footer{
@@ -37,4 +36,15 @@ footer{
 }
 footer h2{
     color: #F8DFD4;
+}
+.flex-container{
+    display: flex;
+    justify-content: flex-start;
+}
+.flex-element{
+    width: 50%;
+}
+.ingredients{
+    background-color: #F8DFD4;
+    max-width: 200px;
 }
